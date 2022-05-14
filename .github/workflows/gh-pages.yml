@@ -1,4 +1,4 @@
-name: github pages
+name: iteration-simulation
 
 on:
   push:
