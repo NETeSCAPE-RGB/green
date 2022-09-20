@@ -1,4 +1,4 @@
-baseURL = 'http://green.netescape.org/'
+baseURL = 'http://green.netesc.org/'
 languageCode = 'en-us'
 title = '#00FF00.LOG'
 theme = 'smol'
@@ -40,8 +40,3 @@ copyright = 'Green'
         name = "NETeSCAPE"
         url = "https://netescape.org"
         weight = 1 
-
-    [[menu.footer]]
-        name = ".TXT"
-        url = "https://txt.netescape.org"
-        weight = 2 
